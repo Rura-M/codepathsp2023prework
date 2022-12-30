@@ -3,7 +3,7 @@
 
 ### App Description
 
-`TODO://` This is a simple UI that allows the user to introduce themselves
+This is a simple UI that allows the user to introduce themselves
 
 ### App Walk-though
 
