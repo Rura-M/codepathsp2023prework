@@ -7,8 +7,6 @@ This is a simple UI that allows the user to introduce themselves
 
 ### App Walk-though
 
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below.
-
 <img src="https://github.com/Rura-M/codepathsp2023prework/blob/main/codepathprework/codepath.gif" width=200><br>
 
 ### Required Features
