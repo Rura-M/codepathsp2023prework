@@ -1,4 +1,4 @@
-# codepathsp2023prework
+# Codepath SP2023 Prework
 ## Campus Social - Codepath Prework
 
 ### App Description
